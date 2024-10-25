@@ -5,22 +5,22 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/fava.png" />
           <meta
             name="description"
-            content="See pictures from Next.js Conf and the After Party."
+            content="See pictures from CNJN's Trenton grand opening."
           />
-          <meta property="og:site_name" content="nextjsconf-pics.vercel.app" />
+          <meta property="og:site_name" content="cnjn.photo.app" />
           <meta
             property="og:description"
-            content="See pictures from Next.js Conf and the After Party."
+            content="See pictures from CNJN's Trenton grand opening."
           />
-          <meta property="og:title" content="Next.js Conf 2022 Pictures" />
+          <meta property="og:title" content="CNJN's Trenton grand opening" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Next.js Conf 2022 Pictures" />
+          <meta name="twitter:title" content="CNJN's Trenton grand opening" />
           <meta
             name="twitter:description"
-            content="See pictures from Next.js Conf and the After Party."
+            content="See pictures from CNJN's Trenton grand opening."
           />
         </Head>
         <body className="bg-black antialiased">
